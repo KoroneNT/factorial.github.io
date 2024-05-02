@@ -1,0 +1,120 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	background: url(img/matematicas-2226745.jpg);
+}
+
+.letras {
+    text-align: center;
+}
+h1 {
+	background-color: #005a9c;
+	color: #fff;
+	padding: 1em;
+	text-align: center;
+	margin-bottom: 1em;
+    border: 10px chocolate;
+    border-style: groove;
+}
+
+h2 {
+    background-color: #005a9c;
+	color: #fff;
+    margin: 5px 590px 5px;
+    border-radius: 5px;
+    border: 10px chocolate;
+    border-style: groove;
+	padding: 1em;
+	text-align: center;
+	margin-top: 2em;
+}
+
+p {
+	margin: 1em;
+}
+
+em {
+	font-style: italic;
+}
+
+.parte1 {
+    margin: 5px 290px 5px;
+    padding: 15px 200px 15px;
+    font-size: 25px;
+    background-color: darkgray;
+    border: 10px double black;
+    border-radius: 5px;
+}
+.parte2 {
+    margin: 5px 750px 5px;
+    padding: 15px 100px 15px;
+    font-size: 21px;
+    background-color: darkgray;
+    border: 10px double black;
+    border-radius: 5px;
+}
+.parte3 {
+    margin: 5px 400px 5px;
+    padding: 15px 100px 15px;
+    font-size: 21px;
+    background-color: darkgray;
+    border: 10px double black;
+    border-radius: 5px;
+}
+.parte4 {
+    margin: 5px 400px 5px;
+    padding: 15px 100px 15px;
+    font-size: 21px;
+    background-color: darkgray;
+    border: 10px double black;
+    border-radius: 5px;
+}
+.parte5 {
+    margin: 5px 690px 5px;
+    padding: 15px 10px 15px;
+    font-size: 21px;
+    background-color: darkgray;
+    border: 10px double black;
+    border-radius: 5px;
+}
+.parte6 {
+    margin: 5px 600px 5px;
+    padding: 15px 100px 15px;
+    font-size: 21px;
+    background-color: darkgray;
+    border: 10px double black;
+    border-radius: 5px;
+}
+.parte7 {
+    margin: 5px 690px 5px;
+    padding: 15px 10px 15px;
+    font-size: 21px;
+    background-color: darkgray;
+    border: 10px double black;
+    border-radius: 5px;
+}
+.parte8 {
+    margin: 5px 800px 5px;
+    padding: 15px 10px 15px;
+    font-size: 21px;
+    background-color: darkgray;
+    border: 10px double black;
+    border-radius: 5px;
+}
+.parte9 {
+    margin: 5px 690px 5px;
+    padding: 15px 10px 15px;
+    font-size: 21px;
+    background-color: darkgray;
+    border: 10px double black;
+    border-radius: 5px;
+}
+.parte10 {
+    margin: 5px 600px 5px;
+    padding: 15px 100px 15px;
+    font-size: 21px;
+    background-color: darkgray;
+    border: 10px double black;
+    border-radius: 5px;
+}
